@@ -6,7 +6,7 @@ I like solving problems that are tricky in nature and which require a good dose 
 
 This account hosts a few of my current and past projects of variying quality.
 
-**Lua • Rust • Python • JS • C** • C# (.NET)
+**Lua • Rust • Python • JS • C • C# (.NET)**
 <!--
 **LucasWolschick/LucasWolschick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
