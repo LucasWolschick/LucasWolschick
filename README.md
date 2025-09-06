@@ -1,12 +1,12 @@
 ### Hey.
 
-I'm Lucas, and I am currently an undergraduate computer science student at [UEM](http://www.uem.br/), in Brazil.
+I'm Lucas, and I work professionally as a software engineer. I graduated in Computer Science at [UEM](http://www.uem.br/), in Brazil.
 
 I like solving problems that are tricky in nature and which require a good dose of creativity to tackle. My interests include programming language design and implementation, game development, game design, systems programming, tooling, information security, mathematics and computer graphics, among others. I also enjoy teaching and learning new topics.
 
 This account hosts a few of my current and past projects of variying quality.
 
-**Lua • Rust • Python • JS • C**
+**Lua • Rust • Python • JS • C** • C# (.NET)
 <!--
 **LucasWolschick/LucasWolschick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
